@@ -8,6 +8,8 @@ looker.plugins.visualizations.add({
                   flex-direction: column;
                   justify-content: center;
                   text-align: center;
+                  color: blue;
+                  font-style: bold;
               }
         `;
 
